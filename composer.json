@@ -1,0 +1,28 @@
+{
+	"name": "mageomni/svg-flags",
+	"version": "0.9.6",
+	"description": "Add SVG flags of the world anywhere on your site that scale to look great at any size!",
+	"license": "GPLv3r",
+	"type": "wordpress-plugin",
+	"keywords": [
+		"wordpress",
+		"svg flags"
+	],
+	"authors": [
+		{
+			"name": "David Gwyer",
+			"homepage": "https://wpgoplugins.com/plugins/simple-sitemap-pro/",
+			"email": "d.v.gwyer@gmail.com"
+		}
+	],
+	"homepage": "https://wp.mageomni.com/svg-flags",
+	"require": {
+		"php": "^7.2.5 || ^8.0",
+		"composer/installers": "^1.12 || ^2.0"
+	},
+	"require-dev": {
+		"roave/security-advisories": "dev-latest"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
